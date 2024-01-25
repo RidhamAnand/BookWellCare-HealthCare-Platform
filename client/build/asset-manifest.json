@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bfcef504.css",
+    "main.js": "/static/js/main.67996cba.js",
+    "static/media/heroimg.png": "/static/media/heroimg.62bebbd4e9c4760f4415.png",
+    "static/media/find.png": "/static/media/find.5ba00cc78bff684c48b4.png",
+    "static/media/calendar.png": "/static/media/calendar.580b51cf6729c69800a6.png",
+    "static/media/patient.png": "/static/media/patient.0f0d4389d485b2e012f9.png",
+    "index.html": "/index.html",
+    "main.bfcef504.css.map": "/static/css/main.bfcef504.css.map",
+    "main.67996cba.js.map": "/static/js/main.67996cba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfcef504.css",
+    "static/js/main.67996cba.js"
+  ]
+}
