@@ -1,4 +1,4 @@
-# BookWellCare - Doctor Appointments Booking and Medical Reports Management
+# BookWellCare - Doctor Appointments Booking and Medical Reports Management Platform
 
 BookWellCare is a web application built on the MERN stack (MongoDB, Express, React, Node.js) that enables users to book doctor appointments, save medical reports, and manage appointments efficiently. It features different screens for both users and doctors, utilizing Firebase authentication for OTP-based authentication, Multer for file uploads, Tailwind CSS for styling, and other technologies for a seamless user experience.
 
